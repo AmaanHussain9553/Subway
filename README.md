@@ -6,6 +6,6 @@ RStudio
 
 Anaconda
 
-R Libraries: Shiny, ShinyDashboard, GGPlot2, Lubridate, DT, jpeg, grid, leaflet, scales, rlang, plyr, dplyr
+R Libraries: shiny, shinydashboard, ggplot2, lubridate, DT, jpeg, grid, leaflet, scales, rlang, plyr, dplyr
 
 ## About The Project
