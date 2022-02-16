@@ -1,4 +1,6 @@
-**About the Data:**
+#About the Data:
+
+
 The data was taken from the Chicago Data Portal at: https://data.cityofchicago.org/Transportation/CTA-Ridership-L-Station-Entries-Daily-Totals/5neh-572f
 The data is about all CTA train stations in Chicago and is aggregated based on daily statistics. For each station on each day, it gives us the station ID, day type, and number of rides on that day. 
 
